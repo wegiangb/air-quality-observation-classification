@@ -33,8 +33,11 @@ The scripts utput to test_results.csv and monitoring_report.html
 Python Scripts 
 
 1 Milestone3_Pecos_6Month_Importing_OpenAQ_API_Dataset_Classification_of_Measurements_6Months.py
-2 
+2 Milestone3_Pecos_Importing_OpenAQ_API_Dataset_Classification_of_Measurements.py
 
+2 Milestone3_Pecos_Importing_OpenAQ_API_Dataset_Classification_of_Measurements.py
+
+A Script for importing OpenAQ dataset for One country and one parameter 
 
 1 Milestone3_Pecos_6Month_Importing_OpenAQ_API_Dataset_Classification_of_Measurements_6Months.py
 
