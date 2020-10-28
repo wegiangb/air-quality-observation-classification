@@ -18,6 +18,12 @@ Aims
 4 Find How many stations don’t measure every 15 minutes through a day and when are these are
 5 Find stagnant measurements that don't change over a chosen amount 
 
+User Manual
+
+UserManual_Milestone_3_Pecos_Quality_Control_Classification_of_Stations.pdf
+(This is for Milestone3_Pecos_Importing_OpenAQ_API_Dataset_Classification_of_Measurements.py)
+
+
 Parameters 
 1 Higher bound
 2 Lower Bound 
